@@ -188,7 +188,11 @@ nav {
 
 .box-container {
     margin-top: 1rem;
+<<<<<<< HEAD
     height: 120%;
+=======
+    height: 100%;
+>>>>>>> a697fe30802efa1d2900d1d04766456c2f91cd04
 }
 
 .box {
